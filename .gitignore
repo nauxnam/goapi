@@ -1,0 +1,6 @@
+# Ignore .mod files
+.mod
+
+# Ignore .idea folder
+
+.idea/
