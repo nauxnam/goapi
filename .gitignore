@@ -1,6 +1,6 @@
 # Ignore .mod files
-.mod
-
+*.mod
 # Ignore .idea folder
-
 .idea/
+# Ignore .sum file
+*.sum
